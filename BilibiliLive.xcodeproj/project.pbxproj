@@ -457,7 +457,7 @@
 			repositoryURL = "https://github.com/pocketsvg/PocketSVG.git";
 			requirement = {
 				kind = upToNextMinorVersion;
-				minimumVersion = 2.7.0;
+				minimumVersion = 2.8.0;
 			};
 		};
 		494741C129016CCE005D6885 /* XCRemoteSwiftPackageReference "MarqueeLabel" */ = {
